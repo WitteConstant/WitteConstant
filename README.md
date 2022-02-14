@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WitteConstant
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and always working on my technical and soft skills
+- 💞️ I’m looking to collaborate on Data Science related projects and Analytics 
+- 📫 Reach me via my email Lucas.A.Witte.Constant@gmail.com or through my inbox here on github
